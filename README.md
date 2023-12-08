@@ -1,2 +1,3 @@
-# olympus
-Azure AKS Repository
+![Intro](./docs/olympus.jpg)
+
+Azure Managed Kubernetes Service (AKS)
